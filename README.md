@@ -1,2 +1,2 @@
-###Learning Fastapi###
-#My efforts on learning the Async Python Framework#
+#Learning Fastapi
+My efforts on learning the Async Python Framework.
