@@ -1,1 +1,505 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"uk-grid-stack \t UIkit uk-data"
+			],
+			[
+				"grid",
+				"uk-grid-margin \tUIkit class"
+			],
+			[
+				"b",
+				"br\t<br>"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"uk-navbar",
+				"uk-navbar \tUIkit class"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"nav",
+				"uk-navbar-nav \t UIkit uk-data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/main.py",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shell",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"li",
+				"Live Server: Start"
+			],
+			[
+				"minus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/api",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/venv"
+	],
+	"file_history":
+	[
+		"/Users/jan/.pylintrc",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/venv/pyvenv.cfg",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/.cheatsheet",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/venv/lib/python3.9/site-packages/pylint/config/find_default_config_files.py",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/README.md",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/LICENSE",
+		"/Users/jan/Desktop/Projekte/Lernen/learning_fastapi/api/requirements.txt",
+		"/Users/jan/Desktop/Projekte/Lernen/Microblog/README.md",
+		"/Users/jan/Desktop/Projekte/Lernen/Microblog/.gitignore",
+		"/Users/jan/Desktop/Projekte/Lernen/Microblog/.cheatsheet",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/user_backend/app.py",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/.cheatsheet",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/.gitignore",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/Bike_msngr_app.sublime-project",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/checkversion.py",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Installed Packages/LESS.sublime-package",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/.pycheatsheet",
+		"/Users/jan/Desktop/Projekte/Code/bike_msngr_app/.pycmd",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/homepage/index.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/navbar.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/index.html",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/container.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/nav.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/less/components/variables.less",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/search.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/dist/index.html",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/dist/js/uikit.js",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/less/components/alert.less",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/components/variables.scss",
+		"/Users/jan/Downloads/pattern.svg",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/components/base.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/variables.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/theme/badge.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/uikit-theme.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/theme/_import.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/theme/variables.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/src/scss/theme/alert.scss",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/tests/accordion.html",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/python3_9.sublime-build",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/package.json",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/dist/css/uikit-core.css",
+		"/Users/jan/.codeintel/codeintel.log",
+		"/Users/jan/yarn.lock",
+		"/Users/jan/.yarnrc.yml",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/.yarn/releases/yarn-2.4.0.cjs",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/yarn.lock",
+		"/Users/jan/Desktop/Projekte/Liptricks/frontend_theme_build/uikit/jsconfig.json",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Zen Tabs/TODO.todo",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/Users/jan/Downloads/pt-sans-fontfacekit/web fonts/ptsans_bolditalic_macroman/stylesheet.css",
+		"/Users/jan/Downloads/uikit-3.6.3/tests/accordion.html",
+		"/Volumes/FirmwareProgrammer_v14.33/Lezyne-Firmware-Programmer.app/Contents/_CodeSignature/CodeResources",
+		"/Volumes/FirmwareProgrammer_v14.33/Lezyne-Firmware-Programmer.app/Contents/Resources/Base.lproj/MainMenu.nib",
+		"/Volumes/FirmwareProgrammer_v14.33/Lezyne-Firmware-Programmer.app/Contents/Info.plist",
+		"/Users/jan/Desktop/ISOMetricprofile Kopie.xml",
+		"/Users/jan/Library/Application Support/Autodesk/webdeploy/production/b782b3a466e707d991727f1b9e9b52c6c8625f38/Autodesk Fusion 360.app/Contents/Libraries/Applications/Fusion/Fusion/Server/Fusion/Configuration/ThreadData/ISOMetricprofile.xml",
+		"/Users/jan/Library/Application Support/Autodesk/webdeploy/production/b782b3a466e707d991727f1b9e9b52c6c8625f38/Autodesk Fusion 360.app/Contents/Libraries/Applications/Fusion/Fusion/Server/Fusion/Configuration/ThreadData/CyclingThreads.xml",
+		"/Users/jan/.ssh/id_rsa.pub",
+		"/Users/jan/Downloads/style.css",
+		"/Users/jan/SERVER",
+		"/Users/jan/ENGINE",
+		"/Users/jan/.photorec.cfg",
+		"/Users/jan/Privat/Repos/Kick-Off/product.html",
+		"/Users/jan/Privat/Repos/Kick-Off/css/dashboard.css",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/versions/2020-04-02.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/config.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/versions/2020-03-26.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/versions/2020-03-27.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/versions/2020-04-01.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/versions/2020-03-31.plist",
+		"/Users/jan/Arbeit/backups/webshop%40bikers-base.com@imap.strato.de.horcrux/source/0A00C1F2E20A34DF1E36E6855E1455C7.eml",
+		"/Users/jan/Desktop/Bikers Base Umzug/htdocs/bikeshop/bikeshowcase/wp-config.php",
+		"/Users/jan/Desktop/Bikers Base Umzug/htdocs/wptestshop/H6dks92kW/wp-config.php",
+		"/Users/jan/Desktop/Code/uikit/tests/navbar.html",
+		"/Users/jan/Desktop/Code/uikit/tests/accordion.html",
+		"/Users/jan/Downloads/uikit-master/tests/close.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 186.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3_9.sublime-build",
+	"project": "learning_fastapi.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shell",
+				"Login Shell"
+			],
+			[
+				"",
+				"Login Shell"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
