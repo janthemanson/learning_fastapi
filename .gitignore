@@ -1,6 +1,8 @@
 ### Sublime Project ###
 learning_fastapi.sublime-project
+learning_fastapi.sublime-workspace
 .cheatsheet
+.pylintrc
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
